@@ -3,4 +3,5 @@ Fitur yang umumnya ada di VR Museum :
 - Interaksi dengan Objek: Pengunjung dapat berinteraksi dengan objek-objek di dalam VR Museum. Mereka dapat memperbesar atau memperkecil objek, memutar objek untuk melihatnya dari berbagai sudut, dan bahkan mengetuk atau memainkan objek tertentu jika diizinkan.
 - Audiovisual: VR Museum sering kali menawarkan audiovisual yang kaya, seperti suara latar dan narasi, yang menjelaskan artefak dan memberikan konteks sejarah atau seni.
 - Kebebasan Bergerak: Pengunjung dapat menjelajahi museum dalam lingkungan virtual dengan kebebasan yang lebih besar dibandingkan dengan museum tradisional. Mereka dapat memilih sendiri rute atau arah yang ingin mereka ambil, dan melihat artefak dan karya seni dari berbagai sudut.
-
+- Koleksi Digital: VR Museum dapat menampilkan koleksi artefak atau karya seni yang lebih besar daripada yang bisa ditempatkan dalam museum fisik. Ini dapat membantu mempertahankan dan memamerkan koleksi yang tidak mungkin dipamerkan di museum fisik.
+- Akses dari Jarak Jauh: VR Museum memungkinkan pengunjung mengunjungi museum dari jarak jauh, tanpa harus melakukan perjalanan fisik. Ini memungkinkan orang untuk mengunjungi museum dari seluruh dunia dan menjelajahi artefak dan karya seni dari budaya yang berbeda.
